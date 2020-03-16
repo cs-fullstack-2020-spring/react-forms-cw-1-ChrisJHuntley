@@ -1,5 +1,6 @@
 # react-forms-1
-
+### Your file name should be the same as your class name, you didn't do that for `AppContainer`. You should be updating the state of each field value individually. Be sure to check out the solution. ALso you didn't give the react app a meaningful name.
+### Score : 2/5
 ### Exercise 1: Basic Form with a Stateful Component
 - Create a new react app called `feelings-app`
 - Create a `AppContainer` component to maintain shared stat
