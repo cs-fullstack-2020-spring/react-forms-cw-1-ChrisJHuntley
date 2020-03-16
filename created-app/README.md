@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+### Your file name should be the same as your class name, you didn't do that for `AppContainer`. You should be updating the state of each field value individually. Be sure to check out the solution. ALso you didn't give the react app a meaningful name.
+### Score : 2/5
 ## Available Scripts
 
 In the project directory, you can run:
